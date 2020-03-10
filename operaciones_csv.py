@@ -43,7 +43,7 @@ for linea in mi_archivo:
 
 #cerrar archivos
 mi_archivo.close()
-mi_archivo2.close()
+mi_archivo_2.close()
 
 
 #libreria csv: tiene varias funciones para trabajar con csvs.
